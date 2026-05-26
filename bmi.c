@@ -20,5 +20,9 @@ int main() {
         printf("Obesidad\n");
     }
     
+    printf("          Tabla de referencia BMI   \n");
+    printf("| BAJO PESO |   NORMAL   | SOBREPESO | OBESIDAD | \n");
+    printf("|  < 18.5   | 18.5 - 24.9| 25 - 29.9 | >= 30    | \n");
+   
     return 0;
 }
